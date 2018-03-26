@@ -3,15 +3,15 @@ pl:
     dotiw:
       seconds:
         one: "1 sekunda"
-        few: "%{count} sekundy"
+        few: "%{count} sekund"
         other: "%{count} sekund"
       minutes:
         one: "1 minuta"
-        few: "%{count} minuty"
+        few: "%{count} minut"
         other: "%{count} minut"
       hours:
         one: "1 godzina"
-        few: "%{count} godziny"
+        few: "%{count} godzin"
         other: "%{count} godzin"
       days:
         one: "1 dzień"
